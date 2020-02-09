@@ -1,19 +1,38 @@
-1. ### Kim Valeriy Eduardovich
-1. ### Contact Info:
+***
+
+## CV
+
+***
+
+### Kim Valeriy Eduardovich
+
+***
+
+### Contact Info:
    * Phone: +998 90 933-14-77
    * E-mail: [m1kadosgs@gmail.com](mailto:m1kadosgs@gmail.com)
    * Skype: yellophen
    * Telegram: [m1kadosgs](https://t.me/m1kadosgs)
-1. ### Summary. 
+
+***
+
+### Summary 
+
 I was always interested in the IT direction and everything related to this area. I decided at school that in the future I would work in the IT industry. At that time I got acquainted with HTML with the help of which I built simple web pages. After graduation, I went to work as a software testing engineer. At the moment, my goal is to study Front End development and find a job in this area. There is also a goal in the field of testing - this is automation, which is also interesting to me.
-1. ### Skills:
+
+***
+
+### Skills
    * Testing
    * SQL
    * HTML
    * CSS
    * Bug tracker system
    * Writing test casess
-1. ### Code examples(Latest):
+
+***
+
+### Code examples(Latest):
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -55,9 +74,20 @@ I was always interested in the IT direction and everything related to this area.
 </body>
 </html>
 ```
-1. ### Experience.
+
+***
+
+### Experience.
    * I work as a software tester at Beelab
-1. ### Education.
+
+***
+
+### Education.
    * Bachelor degree: Designing and technology of light industry products - (2014-2018) The Tashkent Institute of Textile and Light Industry
-1. ### Enlish.
+
+***
+
+### Enlish.
    My English Level A2
+
+***
