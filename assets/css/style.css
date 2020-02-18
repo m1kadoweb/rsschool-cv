@@ -102,3 +102,21 @@ a:hover {
 .section-list {
   margin-left: 20px;
 }
+
+.code {
+  border: 1px dashed rgb(255, 45, 45);
+  background: #fffff5;  
+}
+
+.footer {
+  display: flex;
+  height: 75px;
+  margin-top: 40px;
+  align-items: center;
+  color: #ffffff;
+  background-color: #282828;
+}
+
+.footer > .wrapper {
+  text-align: center;
+}
