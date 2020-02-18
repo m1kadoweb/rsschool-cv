@@ -83,10 +83,19 @@ a:hover {
   border-bottom: 1px solid #a9a9a9;
 }
 
-.section-info {
-  margin-top: 30px;
+.section-info,
+.section-list {
   font-size: 19px;
   color: #868686;
+}
+
+.section-info,
+.section-list {
+  margin-top: 30px;
+}
+
+.section-list {
+  margin-left: 20px;
 }
 
 
