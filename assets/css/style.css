@@ -66,3 +66,39 @@ a:hover {
   font-size: 20px;
   list-style-type: none;
 }
+
+.section {
+  padding-top: 70px;
+  color: #a9a9a9;
+}
+
+.section-header {
+  font-size: 24px;
+  font-weight: lighter;
+  text-transform: uppercase;  
+}
+
+.section-header:after {
+  display: block;
+  padding-top: 5px;
+  width: 1024px;
+  border-bottom: 1px solid #a9a9a9;
+  content: "";
+  
+}
+
+.section-info,
+.section-list {
+  font-size: 19px;
+  color: #868686;
+}
+
+.section-info,
+.section-list,
+.code {
+  margin-top: 30px;
+}
+
+.section-list {
+  margin-left: 20px;
+}
