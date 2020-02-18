@@ -27,12 +27,13 @@ a:hover {
 .header-info {
   display: flex;
   justify-content: space-around;
+  align-items: center; 
 }
 
 .wrapper {
   width: 1024px;
   margin: 0 auto;
-  align-items: center;    
+   
 }
 
 .photo {
@@ -100,10 +101,21 @@ a:hover {
 }
 
 .code {
-
   border: 1px dashed rgb(255, 45, 45);
-  background: #fffff5;
-  
+  background: #fffff5;  
+}
+
+.footer {
+  display: flex;
+  height: 75px;
+  margin-top: 40px;
+  align-items: center;
+  color: #ffffff;
+  background-color: #282828;
+}
+
+.footer > .wrapper {
+  text-align: center;
 }
 
 
