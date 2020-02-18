@@ -90,12 +90,20 @@ a:hover {
 }
 
 .section-info,
-.section-list {
+.section-list,
+.code {
   margin-top: 30px;
 }
 
 .section-list {
   margin-left: 20px;
+}
+
+.code {
+
+  border: 1px dashed rgb(255, 45, 45);
+  background: #fffff5;
+  
 }
 
 
