@@ -24,12 +24,15 @@ a:hover {
   
 }
 
-.wrapper {
+.header-info {
   display: flex;
+  justify-content: space-around;
+}
+
+.wrapper {
   width: 1024px;
   margin: 0 auto;
-  align-items: center;  
-  justify-content: space-around;
+  align-items: center;    
 }
 
 .photo {
@@ -61,9 +64,30 @@ a:hover {
   list-style-type: none;
 }
 
-.contacts {
-  
+.section {
+  padding-top: 70px;
+  color: #a9a9a9;
 }
 
- 
+.section-header {
+  font-size: 24px;
+  font-weight: lighter;
+  text-transform: uppercase;  
+}
+
+.section-header:after {
+  display: block;
+  padding-top: 5px;
+  width: 1024px;
+  content: "";
+  border-bottom: 1px solid #a9a9a9;
+}
+
+.section-info {
+  margin-top: 30px;
+  font-size: 19px;
+  color: #868686;
+}
+
+
 
