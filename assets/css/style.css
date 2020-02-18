@@ -1,0 +1,69 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a,
+a:visited {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:active,
+a:hover {
+  color: #FFF9B9;
+  transition: 0.2s linear;
+}
+
+.header {
+  display: flex;
+  height: 300px;
+  background-color: #282828;
+  align-items: center;  
+  
+}
+
+.wrapper {
+  display: flex;
+  width: 1024px;
+  margin: 0 auto;
+  align-items: center;  
+  justify-content: space-around;
+}
+
+.photo {
+  border: 2px solid #ffffff;
+}
+.name,
+.position,
+.contacts {
+  color: #ffffff;
+  line-height: 1.8;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.name {
+  text-transform: uppercase;
+}
+
+.position {
+  font-weight: 100;
+}
+
+.about-me {
+  padding-left: 20px;
+  border-left: 1px solid #a9a9a9;
+}
+
+.contact {
+  font-size: 20px;
+  list-style-type: none;
+}
+
+.contacts {
+  
+}
+
+ 
+
