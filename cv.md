@@ -78,8 +78,8 @@ I was always interested in the IT direction and everything related to this area.
 ***
 
 ### Experience.
-   * I work as a software tester at Beelab
-
+   * Oct 2018 - Feb 2020 Beelab LLC. Software Test Engineer 
+   * Feb 2020 - Present Venkon LLC. QA Engineer
 ***
 
 ### Education.
@@ -88,6 +88,6 @@ I was always interested in the IT direction and everything related to this area.
 ***
 
 ### Enlish.
-   My English Level A2
+   My English level is A2
 
 ***
