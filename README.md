@@ -1,1 +1,1 @@
- https://m1kadoweb.github.io/rsschool-cv/
+ https://m1kadoweb.github.io/rsschool-cv/cv
